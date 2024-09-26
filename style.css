@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#mybutton{
+    font-size: 5em;
+    border-radius: 10px;
+    border: solid #ff9500;
+    color: #0237d8;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px , 25px;
+    border-width: 7px;
+}
+
+#mylabel{
+    font-size: 3em;
+    border-radius: 10px;
+    border: solid #ff9500;
+    border-width: 5px;
+    color: #0237d8;
+}
+
